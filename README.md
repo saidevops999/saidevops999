@@ -1,14 +1,13 @@
+<h1 align="center">Hi 👋, I'm Sai</h1>
+<h3 align="center">**DevOps/Cloud/SRE Engineer** | AWS/Azure/GCP  Solutions Architect| Passionate about DevOps/Cloud/SRE Roles</h3>
+
 <div align="center">
   <img src="https://github.com/S566629/Saikumar/blob/main/1_reRpiezl3EnhtteqjoGSLw.gif" alt="Cloud Banner" width="70%"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Sai</h1>
-<h3 align="center">AWS/Azure/GCP  Solutions Architect| Passionate about DevOps/Cloud/SRE Roles, Cloud Engineering & AI-Driven Solutions</h3>
 
-Welcome to my GitHub profile! I'm a passionate **DevOps/Cloud/SRE Engineer** with expertise in cloud platforms, automation tools, and container orchestration. My goal is to bridge the gap between development and operations to ensure seamless software delivery.
 
- How to reach me: 
-
+ ## 📊How to reach Me 
  
   📫**E-mail**      :chandulink@gmail.com**
 
@@ -23,7 +22,9 @@ Welcome to my GitHub profile! I'm a passionate **DevOps/Cloud/SRE Engineer** wit
 - 🔧 **DevOps Tools**: Jenkins 🔧, GitHub Actions 🛠️   Docker 🐳, Kubernetes ☸️ ,🧩 Terraform,📜 Ansible 
 - 💻 **Programming Skills**: Python 🐍, Bash scripting 🖥️ ,Java,.Net
 - 🛠 **Current Interests**: DevSecOps, CI/CD pipelines, Infrastructure as Code (IaC)  
-- 🛠️  **Monitoring & Security**  : Prometheus 📈, Grafana 📊, OWASP Dependency-Check 🔒SonarQube 🛡️, Nagios 📟  
+- 🛠️  **Monitoring & Security**  : Prometheus 📈, Grafana 📊, OWASP Dependency-Check 🔒SonarQube 🛡️, Nagios 📟
+- 📊 **Certifications**    :  AWS Solutions Architect|Azure Solutions Architect | GCP Solutions Architect
+ 
 ---
 
 ## 🛠️ Skills & Tools  
@@ -33,57 +34,6 @@ Welcome to my GitHub profile! I'm a passionate **DevOps/Cloud/SRE Engineer** wit
 - **GCP** ☁️: Compute Engine 🖥️, Kubernetes Engine ☸️, Cloud Storage 📦  
 
 
-
-
-
----
-
-
-
-
----
-
-<h3 align="left">🌟 What I Do:</h3>
-<p>
-  - Build and manage scalable, secure, and reliable cloud solutions using <strong>AWS</strong>, <strong>Azure</strong>, and <strong>Google Cloud</strong>.<br>
-  - Leverage <strong>AI-based tools</strong> to enhance system monitoring, incident prediction, and automated resolution.<br>
-  - Automate infrastructure and application management using <strong>Terraform</strong>, <strong>Jenkins</strong>, and <strong>Ansible</strong>.<br>
-  - Design AI-driven DevOps pipelines for continuous integration and deployment.<br>
-  - Integrate predictive analytics to forecast resource utilization and system performance.
-</p>
-
----
-
-<h3 align="left">📊 My Areas of Expertise:</h3>
-<p>
-  - **DevOps & Cloud Engineering**: Automating CI/CD pipelines, scaling infrastructure, and cloud migrations.<br>
-  - **AI-Driven Insights**: Leveraging machine learning for system optimization, anomaly detection, and predictive analytics.<br>
-  - **Infrastructure as Code (IaC)**: Terraform and CloudFormation for robust and scalable deployments.<br>
-  - **Containerization & Orchestration**: Docker and Kubernetes to deploy scalable microservices.<br>
-</p>
-
-  <div align="center">
-  <h2>🌟 AI-Driven Cloud DevOps Practices</h2>
-  <p>Leveraging the power of AI to optimize and streamline DevOps workflows in cloud environments.</p>
-
-  ------
-  <div>
-    <h3>🚀Workflow Representation</h3>
-    <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-      <img src="https://github.com/S566629/Saikumar/blob/main/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="DevOps Workflow Step 1" width="30%" title="Step 1: Continuous Integration"/>
-      <span style="font-size: 1000px; font-weight: bold;">+</span>
-      <img src="https://github.com/S566629/Saikumar/blob/main/images%20(2).jpeg" alt="AI Integration in DevOps" width="30%" title="Step 2: AI Integration"/>
-      <span style="font-size: 1000px; font-weight: bold;">+</span>
-      <img src="https://github.com/S566629/Saikumar/blob/main/1_XEAvoDtCj_5Qlm-KhwyuPw.gif" alt="DevOps Workflow Step 2" width="30%" title="Step 3: Continuous Deployment"/>
-    </div>
-    <p style="font-style: italic; font-weight: bold; margin-top: 10px;">This workflow represents the process of integrating AI into Cloud DevOps practices for seamless automation and optimization.</p>
-  </div>
-</div>
-
-
----
-
-<h3 align="left">🛠️ Technical Skills:</h3>
 
 <h3 align="center">🛠️ Technical Skills</h3>
 
@@ -144,10 +94,32 @@ Welcome to my GitHub profile! I'm a passionate **DevOps/Cloud/SRE Engineer** wit
 
 
 
+<h3 align="left">🌟 What I Do:</h3>
+<p>
+  - Build and manage scalable, secure, and reliable cloud solutions using <strong>AWS</strong>, <strong>Azure</strong>, and <strong>Google Cloud</strong>.<br>
+  - Leverage <strong>AI-based tools</strong> to enhance system monitoring, incident prediction, and automated resolution.<br>
+  - Automate infrastructure and application management using <strong>Terraform</strong>, <strong>Jenkins</strong>, and <strong>Ansible</strong>.<br>
+  - Design AI-driven DevOps pipelines for continuous integration and deployment.<br>
+  - Integrate predictive analytics to forecast resource utilization and system performance.
+</p>
+
+---
+
+<h3 align="left">📊 My Areas of Expertise:</h3>
+<p>
+  - **DevOps & Cloud Engineering**: Automating CI/CD pipelines, scaling infrastructure, and cloud migrations.<br>
+  - **AI-Driven Insights**: Leveraging machine learning for system optimization, anomaly detection, and predictive analytics.<br>
+  - **Infrastructure as Code (IaC)**: Terraform and CloudFormation for robust and scalable deployments.<br>
+  - **Containerization & Orchestration**: Docker and Kubernetes to deploy scalable microservices.<br>
+</p>
+
+
+----
+
 <h3 align="left">📫 Connect with Me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/saikumarthangalla/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/S566629" target="blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/sai2304neni/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/saidevops999" target="blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"></a>
 </p>
 
 
